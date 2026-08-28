@@ -1,7 +1,7 @@
 
 ---
 
-# 2. `Dataset/Raw/README.md`
+# `Dataset/Raw/README.md`
 
 Copy this into the **Raw Dataset folder**:
 
